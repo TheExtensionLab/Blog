@@ -2,7 +2,7 @@
 layout: post
 title:  "Add custom category attributes to TheExtensionLab_MegaMenu menu"
 date:   2015-10-06 15:05:00
-categories: jekyll update
+categories: extensions-customisation
 tags: featured
 ---
 So you've installed TheExtensionLab_MegaMenu and it's working great. But the guys over in design have put a small icon next to each top level menu item and your boss says he wants those and they need to be configurable. But your not quite sure how to add those in without loading the categories again.
@@ -173,6 +173,8 @@ img.icon-image{
 If you upload a few icons to your categories and refresh the homepage you should end up with something like below, which is the finished product.
 
 ![Icon Menu](../../../../../assets/images/menuattributes/icon-menu.jpg "Icon Menu")
+
+The full code from this blogpost is avaliable at : [https://github.com/TheExtensionLab/MegaMenuAdditionalAttributes](https://github.com/TheExtensionLab/MegaMenuAdditionalAttributes)
 
 ***Quick Summary:***
 
