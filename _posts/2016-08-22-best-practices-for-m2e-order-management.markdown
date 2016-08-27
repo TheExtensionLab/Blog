@@ -27,7 +27,3 @@ If you sell your products on several eBay stores or have multiple Amazon listing
 If you drop ship products, managing the follow-ups and logistics can be quite a handful. It is important that you create separate listing templates for them with M2E and assign separate order statuses to these items. This will help you to quickly identify what needs your immediate attention.
 
 A well-managed website and good overall online presence are crucial to the success of your eCommerce business. But, the magic you work behind the scenes - managing the inventory and organising the logistics for shipping - can help make your business sustainable. With the help of M2E and the Order Status Colors extension, you can easily access updated information and use it to streamline your back-end.
-
-####Written by Imagine Media
-
-Imagination Media focuses on delivering brilliant, intuitive, and effective integrated solutions built on the Magento and Shopify Plus platforms to small business – empowering retailers from all industries to seamlessly integrate their online and in-store operations.
