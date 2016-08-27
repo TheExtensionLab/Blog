@@ -19,6 +19,8 @@ name: 'James Anelay'
 author: 'James Anelay'
 author_image: "/assets/images/author.jpg"
 
+imagine_image: "/assets/images/imagine.jpg"
+
 paginate:	5
 
 url: "http://blog.theextensionlab.com" # the base hostname & protocol for your site
