@@ -7,7 +7,7 @@ tags: featured
 ---
 ##Magento MegaMenu Showcase
 
-So our [MegaMenu extension for Magento](https://github.com/TheExtensionLab/MegaMenu) was released roughly 1 year now - since that time we have been excited to see the great end results coming from our customers. Today I wanted to share a few examples of their great work and showcase what is possible with our extension.
+So our [MegaMenu extension for Magento](https://github.com/TheExtensionLab/MegaMenu) was released roughly 1 year now - since that time it's been awesome to see the great designs our customers have been able to pull off using our extension as a base. Today I wanted to share a few examples of their great work and showcase what is possible with our extension.
 
 The examples below are in action on live websites - so please, go check them out!
 
